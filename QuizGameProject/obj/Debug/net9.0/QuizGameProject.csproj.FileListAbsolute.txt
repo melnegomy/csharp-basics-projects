@@ -1,0 +1,14 @@
+D:\programming\Backend\QuizGameProject\bin\Debug\net9.0\QuizGameProject.exe
+D:\programming\Backend\QuizGameProject\bin\Debug\net9.0\QuizGameProject.deps.json
+D:\programming\Backend\QuizGameProject\bin\Debug\net9.0\QuizGameProject.runtimeconfig.json
+D:\programming\Backend\QuizGameProject\bin\Debug\net9.0\QuizGameProject.dll
+D:\programming\Backend\QuizGameProject\bin\Debug\net9.0\QuizGameProject.pdb
+D:\programming\Backend\QuizGameProject\obj\Debug\net9.0\QuizGameProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Backend\QuizGameProject\obj\Debug\net9.0\QuizGameProject.AssemblyInfoInputs.cache
+D:\programming\Backend\QuizGameProject\obj\Debug\net9.0\QuizGameProject.AssemblyInfo.cs
+D:\programming\Backend\QuizGameProject\obj\Debug\net9.0\QuizGameProject.csproj.CoreCompileInputs.cache
+D:\programming\Backend\QuizGameProject\obj\Debug\net9.0\QuizGameProject.dll
+D:\programming\Backend\QuizGameProject\obj\Debug\net9.0\refint\QuizGameProject.dll
+D:\programming\Backend\QuizGameProject\obj\Debug\net9.0\QuizGameProject.pdb
+D:\programming\Backend\QuizGameProject\obj\Debug\net9.0\QuizGameProject.genruntimeconfig.cache
+D:\programming\Backend\QuizGameProject\obj\Debug\net9.0\ref\QuizGameProject.dll
