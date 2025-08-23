@@ -1,0 +1,14 @@
+D:\programming\Backend\Task_Tracker_Project\bin\Debug\net9.0\Task_Tracker_Project.exe
+D:\programming\Backend\Task_Tracker_Project\bin\Debug\net9.0\Task_Tracker_Project.deps.json
+D:\programming\Backend\Task_Tracker_Project\bin\Debug\net9.0\Task_Tracker_Project.runtimeconfig.json
+D:\programming\Backend\Task_Tracker_Project\bin\Debug\net9.0\Task_Tracker_Project.dll
+D:\programming\Backend\Task_Tracker_Project\bin\Debug\net9.0\Task_Tracker_Project.pdb
+D:\programming\Backend\Task_Tracker_Project\obj\Debug\net9.0\Task_Tracker_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Backend\Task_Tracker_Project\obj\Debug\net9.0\Task_Tracker_Project.AssemblyInfoInputs.cache
+D:\programming\Backend\Task_Tracker_Project\obj\Debug\net9.0\Task_Tracker_Project.AssemblyInfo.cs
+D:\programming\Backend\Task_Tracker_Project\obj\Debug\net9.0\Task_Tracker_Project.csproj.CoreCompileInputs.cache
+D:\programming\Backend\Task_Tracker_Project\obj\Debug\net9.0\Task_Tracker_Project.dll
+D:\programming\Backend\Task_Tracker_Project\obj\Debug\net9.0\refint\Task_Tracker_Project.dll
+D:\programming\Backend\Task_Tracker_Project\obj\Debug\net9.0\Task_Tracker_Project.pdb
+D:\programming\Backend\Task_Tracker_Project\obj\Debug\net9.0\Task_Tracker_Project.genruntimeconfig.cache
+D:\programming\Backend\Task_Tracker_Project\obj\Debug\net9.0\ref\Task_Tracker_Project.dll
